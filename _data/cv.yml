@@ -95,6 +95,19 @@
         - Proteomic Profiling to Investigate Biomarkers and Biological Functions Associated with Long COVID in Frontline Workers
         - Serum Proteomics in Omicron SARS-CoV-2 breakthrough:a nested case-control study within a prospective cohort of frontline workers from eight locations in the United States (US).
 
+
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Journal Articles
+      items: 
+        - M. A. Furlong, T. Liu, A. Jung, S. Beitel, J. Hughes, R. Krause, R. Mathis, J. Graber, M. Calkins,H. Matthew, G. John, J. Goodrich, and J. L. Burgess, "Per- and polyfluoroalkyl substances (pfas) and microrna:An epigenome-wide association study,”Environmental Research, review in progress, 2024.
+        - T. Liu, M. A. Furlong, J. M. Snider, D. I. Walker, and J. L. Burgess, “Evaluating differential metabolic profile by wildland-urban-interface (WUI) fire exposure:A comparison with structure fire,” Environmental Research, submitted, 2024.
+        - T. Liu, M. A. Furlong, J. M. Snider, M. M. Tfaily, C. Itson, S. Beitel, K. Parsawar, K. Keck, J. Galligan,D. I. Walker, J. J. Gulotta, and J. L. Burgess, “Differential metabolic profiles by hispanic ethnicity among male tucson firefighters,” Metabolomics, accepted, 2024.
+        - T. Liu, D. Stea, M. A. Furlong, and J. L. Burgess, “Proteomic profiling to investigate biomarkers and biological functions associated with long covid in frontline workers,” manuscript under CDC clearance, 2024.
+        - Y. Liu, E. Lu, K. D. Ellingson, J. Hollister, T. Liu, W. Hamzazai, S. Beitei, A. Britton, and J. L. Burgess,“Unveiling post-vaccination proteomic signatures in infection-naïve individuals associated with omicron breakthrough infections,” manuscript under CDC clearance, 2024.
+        - M. A. Furlong, T. Liu, J. M. Snider, M. M. Tfaily, C. Itson, S. Beitel, K. Parsawar, K. Keck, J. Galligan,D. I. Walker, J. J. Gulotta, and J. L. Burgess, “Evaluating changes in firefighter urinary metabolomes after structural fires:An untargeted, high resolution approach,” Scientific Reports, vol. 13, no. 1, p. 20 872, 2023, issn:2045-2322. doi:10.1038/s41598-023-47799-x.
+
 - title: Talks
   type: list
   contents:
