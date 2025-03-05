@@ -21,11 +21,17 @@ jobs:
       with:
         ruby-version: '3.0.2'
         bundler-cache: true
-    - name: Install deps
+    - name: Clean old dependencies
       run: |
-        npm install -g mermaid.cli
-        gem install bundler
-        bundle install --jobs 4 --retry 3  # Install dependencies efficiently
+        rm -f Gemfile.lock
+        bundle install --redownload
+        bundle update --bundler
+
+    - name: Install Dependencies
+      run: |
+        gem install bundler -v 2.2.22  # Ensure compatible Bundler version
+        bundle install --jobs 4 --retry 3
+        
     - name: Setup deploy options
       id: setup
       run: |
