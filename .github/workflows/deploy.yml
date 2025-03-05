@@ -24,6 +24,8 @@ jobs:
     - name: Install deps
       run: |
         npm install -g mermaid.cli
+        gem install bundler
+        bundle install --jobs 4 --retry 3  # Install dependencies efficiently
     - name: Setup deploy options
       id: setup
       run: |
@@ -36,6 +38,11 @@ jobs:
           echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+    - name: Build Jekyll Site
+      run: |
+        export JEKYLL_ENV=production
+        bundle exec jekyll build
+
     - name: Deploy website 
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
