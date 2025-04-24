@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Arizona</a>
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>12649 E Caden Dr</p>
     <p>Tucson, AZ 85649</p>
@@ -31,11 +31,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-
-Hello I'm **LT** (Tuo Liu). I'm a Ph.D. student at the University of Arizona, pursuing a degree in Environmental Health Sciences, complemented by a minor in Biostatistics. My research integrates omics technologies, advanced statistical methods, and environmental health principles to tackle complex public health challenges. Specifically:
+Hello I'm **LT** (Tuo Liu). I'm a Ph.D. candidate at the University of Arizona, pursuing a degree in Environmental Health Sciences, complemented by a minor in Biostatistics. My research integrates omics technologies, advanced statistical methods, and environmental health principles to tackle complex public health challenges. Specifically:
 
 - Omics technologies: Metabolomics & Proteomics
 - Statistical techniques: Multilevel/Longitudinal Data Analysis, Machine Learning
 - Environmental health: Evaluating the impact of environmental/occupational exposures on susceptible groups including Frontline and Essential Workers, i.e., firefighters, healthcare workers
 
-I work as a Research Associate in both the Burgess Lab and the Furlong Lab, where I specialize in applying metabolomics and proteomics to understand the health risks from environmental/occupational exposures and enhance the health of vulnerable populations.
+I work as a Research Associate in the Burgess Lab and Furlong Lab, where I specialize in applying metabolomics and proteomics to understand the health risks from environmental/occupational exposures and enhance the health of vulnerable populations.

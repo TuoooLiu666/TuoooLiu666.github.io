@@ -17,11 +17,20 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Department of Community, Environment, & Policy, University of Arizona",
+      "position": "Research Associate",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2022-08-01",
+      "endDate": "2025-05-15",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Department of Community, Environment, & Policy, University of Arizona",
+      "position": "Research Assistant",
+      "url": "https://example.com",
+      "startDate": "2021-08-01",
+      "endDate": "2022-07-31",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
