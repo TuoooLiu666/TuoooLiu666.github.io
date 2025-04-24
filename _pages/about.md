@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: <a href='#'>University of Arizona</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>12649 E Caden Dr</p>
+    <p>Tucson, AZ 85649</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+
+Hello I'm **LT** (Tuo Liu). I'm a Ph.D. student at the University of Arizona, pursuing a degree in Environmental Health Sciences, complemented by a minor in Biostatistics. My research integrates omics technologies, advanced statistical methods, and environmental health principles to tackle complex public health challenges. Specifically:
+
+- Omics technologies: Metabolomics & Proteomics
+- Statistical techniques: Multilevel/Longitudinal Data Analysis, Machine Learning
+- Environmental health: Evaluating the impact of environmental/occupational exposures on susceptible groups including Frontline and Essential Workers, i.e., firefighters, healthcare workers
+
+I work as a Research Associate in both the Burgess Lab and the Furlong Lab, where I specialize in applying metabolomics and proteomics to understand the health risks from environmental/occupational exposures and enhance the health of vulnerable populations.

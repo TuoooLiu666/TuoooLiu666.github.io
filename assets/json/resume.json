@@ -1,26 +1,19 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Tuo Liu",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "tuoooliu@arizona.edu",
+    "phone": "(626) 764-5802",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A China-born Environmental Health researcher, trained to exploring health problems using Omics techniques",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "12649 E Caden Dr",
+      "postalCode": "AZ 85749",
+      "city": "Tucson",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Arizona"
+    }
   },
   "work": [
     {
