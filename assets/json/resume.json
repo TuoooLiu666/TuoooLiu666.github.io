@@ -22,8 +22,8 @@
       "url": "https://publichealth.arizona.edu/departments/community-environment-policy",
       "startDate": "2022-08-01",
       "endDate": "2025-05-15",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Metabolomics", "FFCCS"]
+      "summary": "Evaluating metabolic changes after fire exposure in firefighters with FFCCS using Metabolomics; Studying Long COVID in frontline and essential workers with AZHEROES.",
+      "highlights": ["Metabolomics","Proteomics", "FFCCS", "AZHEROES"]
     },
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
@@ -31,20 +31,30 @@
       "url": "https://publichealth.arizona.edu/departments/community-environment-policy",
       "startDate": "2021-08-01",
       "endDate": "2022-07-31",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "Developing analytical pipeline for metabolomics with FFCCS.",
       "highlights": ["Metabolomics", "FFCCS"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Huron River Watershed Council",
+      "location": "Ann Arbor, US",
+      "position": "Volunteer/Collectors",
+      "url": "https://hrwc.org",
+      "startDate": "2019-10-01",
+      "endDate": "2019-10-01",
+      "summary": "Training on water quality indicator & sampling.",
+      "highlights": ["River Roundup"]
+    },
+    {
+      "organization": "Mel and Enid Zuckerman College of Public Health",
+      "location": "Tucson, US",
+      "position": "Volunteer/Graduate Orientation",
+      "url": "https://publichealth.arizona.edu/",
+      "startDate": "2023-08-20",
+      "endDate": "2024-08-20",
+      "summary": "Reception for incoming graduate students.",
+      "highlights": ["Orientation"]
     }
   ],
   "education": [
@@ -63,27 +73,41 @@
       "studyType": "MS",
       "startDate": "2018-09-01",
       "endDate": "2020-05-15"
+    },
+    {
+      "institution": "China University of Petroleum",
+      "location": "beijing, China",
+      "area": "Environmental Science",
+      "studyType": "BS",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "One Health Research Fellowship",
+      "date": "2023-03-01",
+      "awarder": "One Health Initiative at UofArizona",
+      "url": "https://publichealth.arizona.edu/departments/all/one-health",
+      "summary": "With new state funding, the One Health Initiative at the University of Arizona Health Sciences now offers several funding opportunities for students and researchers. Under the leadership of Frank von Hippel, professor in the Mel and Enid Zuckerman College of Public Health, the One Health Research Initiative works to build interdisciplinary research projects and expertise in One Health topics across the university. These new funding opportunities will help build our leadership in One Health research.'"
+    },
+    {
+      "title": "College of Public Health Scholarship",
+      "date": "2021-05-01",
+      "awarder": "Mel and Enid Zuckerman College of Public Health",
+      "url": "https://publichealth.arizona.edu"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Deep Learning",
+      "date": "2025-01-01",
+      "issuer": "Coursera",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Data Science",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
