@@ -23,18 +23,18 @@ Past & current metabolomics analyses with the Firefighter Cancer Cohort Studya r
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Random photos.
 </div>
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     This image can also have a caption. It's like magic.
-</div>
+</div> -->
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+<!-- You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
@@ -68,4 +68,17 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
+
+
+- LongCOVID: Proteomic Profiling to Investigate Biomarkers and Biological Functions Associated with Long COVID in Frontline Workers in the United States (US)
+  - Ledanalytical team for proteomics analysis
+  - Processed and analyzed proteomics data from 130+ frontline and
+  - essential workers with long COVID
+  - Applied bioinformatics techniques to map 20+ significant
+  - biological pathways
+  - Lead author for a manuscript currently under CDC clearance {% cite Liu_2025_2 %}
+
+- COVID: Breakthrough Serum Proteomics in Omicron SARS-CoV-2 breakthrough: a nested case-control study within a prospective cohort of frontline workers from eight locations in the United States (US)
+  - Assisted in proteomics analysis for 100+ breakthrough cases to identify risk factors for Omicron breakthrough
+  - Contributed to a manuscript currently under CDC clearance {% cite Liu_2025_3 %}

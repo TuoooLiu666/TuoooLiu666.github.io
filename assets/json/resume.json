@@ -6,7 +6,7 @@
     "email": "tuoooliu@arizona.edu",
     "phone": "(626) 764-5802",
     "url": "https://tuoooliu666.github.io",
-    "summary": "An Environmental Health researcher, trained to exploring health problems using Omics techniques",
+    "summary": "An Environmental Health researcher, trained to explore environmental/occupational health problems using Omics techniques",
     "location": {
       "address": "1111 W Saint Marys Rd",
       "postalCode": "AZ 85745",
@@ -107,7 +107,7 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "IBM Data Science Professional Certificate",
+      "name": "IBM Data Science Certificate",
       "date": "2020-04-01",
       "issuer": "Coursera",
       "url": "https://example.com",
@@ -195,7 +195,7 @@
     {
       "name": "AZHEROES",
       "summary": "The goal of the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance (AZ HEROES) Study is to enhance our knowledge of the epidemiologic and immunologic characteristics of novel COVID-19 infection and reinfection among high-exposure individuals who provide critical services to our communities.",
-      "highlights": ["COVID-19", "Essentail workers"],
+      "highlights": ["COVID-19", "Essential workers"],
       "startDate": "2022-08-01",
       "endDate": "2025-05-15",
       "url": "https://azheroes.arizona.edu/"
