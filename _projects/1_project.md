@@ -1,14 +1,14 @@
 ---
 layout: page
 title: proteomics
-description: with FFCCS & AZHEROES
+description: with AZHEROES
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Past & current metabolomics analyses with the Firefighter Cancer Cohort Studya re listed below:
+Past & current proteomics analyses with the AZHEROES are listed below:
 
 
 <div class="row">

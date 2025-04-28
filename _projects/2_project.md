@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-Past & current metabolomics analyses with the Firefighter Cancer Cohort Study are listed below:
+Past & current metabolomics analyses with the FFCCS are listed below:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -38,5 +38,5 @@ Past & current metabolomics analyses with the Firefighter Cancer Cohort Study ar
   - Analyzed 100 firefighter samples for ethnicity-specific metabolic profiles
   - Identified biomarkers for differential exposure by Hispanic ethnicity
   - Presented findings at the 2022 Arizona Cancer Center Retreat
-  - Lead authored a manuscript accepted by *Metabolomics*
-  - Co-authored a manuscript published on *Scientific Report*
+  - Lead authored a manuscript accepted by *Metabolomics* {% cite Liu_2025 %}
+  - Co-authored a manuscript published on *Scientific Report* {% cite Furlong_2023 %}
