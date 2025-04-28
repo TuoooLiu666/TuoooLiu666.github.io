@@ -169,14 +169,14 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-going-to-join-the-center-for-translational-exposomics-research-cter-on-environmental-health-at-usc-on-june-15th-sparkles-smile",
           title: 'I am going to join the Center for Translational Exposomics Research (CTER) on...',
           description: "",
-          section: "News",},{id: "projects-metabolomics",
-          title: 'metabolomics',
-          description: "with FFCCS",
+          section: "News",},{id: "projects-proteomics",
+          title: 'proteomics',
+          description: "with FFCCS &amp; AZHEROES",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-proteomics",
-          title: 'proteomics',
-          description: "with FFCCS &amp; HEROES",
+            },},{id: "projects-metabolomics",
+          title: 'metabolomics',
+          description: "with FFCCS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-9",
