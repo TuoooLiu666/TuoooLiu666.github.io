@@ -171,7 +171,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-proteomics",
           title: 'proteomics',
-          description: "with FFCCS &amp; AZHEROES",
+          description: "with AZHEROES",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-metabolomics",
@@ -179,9 +179,9 @@ ninja.data = [{
           description: "with FFCCS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-ds-projects",
+          title: 'DS projects',
+          description: "STATS project 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
