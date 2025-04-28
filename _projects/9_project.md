@@ -7,74 +7,31 @@ importance: 4
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Statistics & DS projects for fun/research are list as below: 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Applied Biostatistics
+  - Longitudinal analysis
+  - Survey analysis
+  - Matching analysis
+  - Survival analysis
+  - Categorical data analysis
+  - High-dimensional data analysis
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+- COVID-19 Vaccine Efficacy Visualization, 2020-2024
+  - URL:https://tuoliu.shinyapps.io/COVID-Vaccine-Efficacy-US/
+  - Built a Shiny application with R to explore covid-related mortality in the United States of America, 2020-2024.
+- US COVID progression, 2019-2023
+  - URL:https://tuoliu.shinyapps.io/covid-progression-in-the-us/
+  - Built a Shiny application with R to explore the progression of COVID in the United States of America at county level, 2019-2023.
+- Arizona Pesticide Usage Map, 1992-2016
+  - URL:https://tuoliu.shinyapps.io/Arizona-Pesticide-Usage-Map/
+  - Built aShinyapplication with R to explore pesticide use in the State of Arizona, 1992-2016.
+  - Visualized pesticide usage with an interactive map & chart using Leaflet & Plotly.
+- Exploring neighborhoods & Chinese Restaurants in Toronto
+  - https://www.linkedin.com/pulse/exploring-neighborhoods-chinese-restaurants-toronto-tuo-liu/?trackingId=Zfbd%2FUNeKx6kqaAigHRokA%3D%3D
+  - Definedabusiness problem, searched for open source data to answer the question.
+  - Appliedmachinelearning algorithms to identify biomarkers related to Hispanic ethnicity.
+  - UsedFoursquare API to compare different neighborhoods of Toronto to evaluate the distribution of Asian & Chinese restaurants.
+  - Determined which neighborhood is most suitable for starting a new Chinese restaurant
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
