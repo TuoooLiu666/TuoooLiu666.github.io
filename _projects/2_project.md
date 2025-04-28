@@ -6,6 +6,7 @@ img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: false
+related_publications: true
 ---
 
 Past & current metabolomics analyses with the FFCCS are listed below:
