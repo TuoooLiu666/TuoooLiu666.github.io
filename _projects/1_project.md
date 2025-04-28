@@ -1,7 +1,7 @@
 ---
 layout: page
-title: metabolomics
-description: with FFCCS
+title: proteomics
+description: with FFCCS & AZHEROES
 img: assets/img/12.jpg
 importance: 1
 category: work

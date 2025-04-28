@@ -1,48 +1,14 @@
 ---
 layout: page
-title: proteomics
-description: with FFCCS & HEROES
+title: metabolomics
+description: with FFCCS
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Past & current metabolomics analyses with the Firefighter Cancer Cohort Studya re listed below:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Past & current metabolomics analyses with the Firefighter Cancer Cohort Study are listed below:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -53,10 +19,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Random images.
 </div>
 
-The code is simple.
+<!-- The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
@@ -74,4 +40,23 @@ Here's the code for the last row of images above:
 </div>
 ```
 
-{% endraw %}
+{% endraw %} -->
+
+- **Women Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Structure Fire Exposure in Women Firefighters: A Comparison with Men Firefighters
+  - Conducted differential expression analysis on 204 urine samples from women firefighters who underwent live-fire training
+  - Developedandvalidatedstatistical models to compare metabolic profiles across firefighter groups
+  - Manuscript under development
+
+- **Men Firefighters**, **WUI Fire**: Evaluating Differential Metabolic Profiles by Wildland-Urban-Interface (WUI) Fire Exposure: A Comparison with Structure Fires
+  - Analyzed 85 firefighter samples for WUI-specific metabolic changes
+  - Integrated metabolomics datasets for comparative analysis
+  - Presented findings at the 2024 FFCCS Brown Bag meeting
+  - Lead author for a manuscript (submitted to Environmental Research)
+
+- **Men Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Hispanic Ethnicity Among Male Tucson Firefighters
+  - Developed an analytical pipeline for metabolomics studies
+  - Analyzed 100 firefighter samples for ethnicity-specific metabolic profiles
+  - Identified biomarkers for differential exposure by Hispanic ethnicity
+  - Presented findings at the 2022 Arizona Cancer Center Retreat
+  - Lead authored a manuscript accepted by *Metabolomics*
+  - Co-authored a manuscript published on *Scientific Report*

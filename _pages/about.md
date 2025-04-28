@@ -28,10 +28,18 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello I'm **LT** (Tuo Liu). I'm a Ph.D. candidate at the University of Arizona, pursuing a degree in Environmental Health Sciences, complemented by a minor in Biostatistics. My research integrates omics technologies, advanced statistical methods, and environmental health principles to tackle complex public health challenges. Specifically:
+Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with specialized expertise in omics technologies, statistical modeling, and occupational health research. I recently earned my Ph.D. in Environmental Health Sciences, with a minor in Biostatistics, from the University of Arizona.
 
-- Omics technologies: Metabolomics & Proteomics
-- Statistical techniques: Multilevel/Longitudinal Data Analysis, Machine Learning
-- Environmental health: Evaluating the impact of environmental/occupational exposures on susceptible groups including Frontline and Essential Workers, i.e., firefighters, healthcare workers
+My research bridges environmental health, high-dimensional data science, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
 
-I work as a Research Associate in the Burgess Lab and Furlong Lab, where I specialize in applying metabolomics and proteomics to understand the health risks from environmental/occupational exposures and enhance the health of vulnerable populations.
+Currently, I work as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, exposure assessment, and health risk evaluation.
+
+My research portfolio includes:
+
+- Omics Applications: Conducting untargeted and targeted metabolomics and proteomics analyses to uncover biological pathways linked to environmental exposures.
+- Statistical Expertise: Designing and applying multilevel modeling, longitudinal data analysis, survival analysis, and machine learning methods to large-scale epidemiological and exposure datasets.
+- Public Health Impact: Generating actionable insights into occupational risks and advancing strategies to protect high-risk populations.
+
+Beyond research, I am passionate about translating complex scientific findings into accessible knowledge that informs public health policies and interventions. I also create interactive tools and visualizations to help bridge the gap between data science and community health practice.
+
+In all my work, I am driven by the goal of advancing health equity, improving occupational health, and innovating at the intersection of environmental science, data analytics, and public health.
