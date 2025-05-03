@@ -14,7 +14,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -30,7 +30,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with expertise in omics technologies, statistical analysis, and occupational health research. I recently earned my Ph.D. in Environmental Health Sciences, with a minor in Biostatistics, from the University of Arizona.
 
-My research bridges environmental health, high-dimensional data analsis, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
+My research bridges environmental/occupational exposure, statistical analsis, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
 
 Currently, I work as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, exposure assessment, and health risk evaluation.
 
