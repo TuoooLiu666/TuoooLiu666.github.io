@@ -192,6 +192,13 @@ ninja.data = [{
           window.open("mailto:%74%75%6F%6F%6F%6C%69%75@%61%72%69%7A%6F%6E%61.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/TuoooLiu666", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
