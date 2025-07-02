@@ -85,7 +85,7 @@
     },
     {
       "institution": "China University of Petroleum",
-      "location": "beijing, China",
+      "location": "Beijing, China",
       "area": "Environmental Science",
       "studyType": "BS",
       "startDate": "2012-09-01",
@@ -94,14 +94,14 @@
   ],
   "awards": [
     {
-      "title": "One Health Research Fellowship",
+      "title": "One Health Research Fellowship ($ 50,000)",
       "date": "2023-03-01",
       "awarder": "One Health Initiative at UofArizona",
       "url": "https://publichealth.arizona.edu/departments/all/one-health",
       "summary": "With new state funding, the One Health Initiative at the University of Arizona Health Sciences now offers several funding opportunities for students and researchers. Under the leadership of Frank von Hippel, professor in the Mel and Enid Zuckerman College of Public Health, the One Health Research Initiative works to build interdisciplinary research projects and expertise in One Health topics across the university. These new funding opportunities will help build our leadership in One Health research.'"
     },
     {
-      "title": "College of Public Health Scholarship",
+      "title": "College of Public Health Scholarship ($ 10,000)",
       "date": "2021-05-01",
       "awarder": "Mel and Enid Zuckerman College of Public Health",
       "url": "https://publichealth.arizona.edu"
