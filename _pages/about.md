@@ -32,7 +32,9 @@ Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with exp
 
 My research bridges environmental/occupational exposure, statistical analsis, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
 
-Currently, I work as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, exposure assessment, and health risk evaluation.
+Currently, I am a Postdoc-research associate at the department of Population and Public Health Science at USC where I study the metabolic profiles by bone mineral density across life span in Latino population. 
+
+For the past 4 years, I worked as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, exposure assessment, and health risk evaluation.
 
 My research portfolio includes:
 
