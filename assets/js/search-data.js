@@ -37,7 +37,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-time-series-theory",
+        },{id: "post-statistics-notes",
+        
+          title: "Statistics Notes",
+        
+        description: "Statistics notes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/statistics-notes/";
+          
+        },
+      },{id: "post-machine-learning-notes",
+        
+          title: "Machine Learning Notes",
+        
+        description: "ML Notes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/ML-notes/";
+          
+        },
+      },{id: "post-machine-learning-algorithm",
+        
+          title: "Machine Learning Algorithm",
+        
+        description: "ML algorithm",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/machine-learning-algorithm/";
+          
+        },
+      },{id: "post-time-series-theory",
         
           title: "Time Series Theory",
         
@@ -103,6 +136,28 @@ ninja.data = [{
             window.location.href = "/blog/2023/statistical-learning/";
           
         },
+      },{id: "post-maximum-likelihood-procedures",
+        
+          title: "Maximum Likelihood Procedures",
+        
+        description: "multivariate-analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/Maximum-Likelihood-Procedures/";
+          
+        },
+      },{id: "post-cluster-analysis",
+        
+          title: "Cluster Analysis",
+        
+        description: "multivariate-analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/cluster-analysis/";
+          
+        },
       },{id: "post-partial-least-squares-regression",
         
           title: "Partial Least Squares Regression",
@@ -134,6 +189,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/Matrix-Algebra-Statistics/";
+          
+        },
+      },{id: "post-principal-component-analysis",
+        
+          title: "Principal Component Analysis",
+        
+        description: "statistical-learning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/principal-component-analysis/";
+          
+        },
+      },{id: "post-linear-algebra-fundamentals",
+        
+          title: "Linear Algebra Fundamentals",
+        
+        description: "statistical-learning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/linear-algebra-fundementals/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
