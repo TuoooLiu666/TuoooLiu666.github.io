@@ -186,7 +186,9 @@
         "Genomics",
         "Epigenomics",
         "Exposomics"
-      ],
+      ]
+    },
+    {
       "name": "Others",
       "icon": "fa-solid fa-tag",
       "keywords": [
