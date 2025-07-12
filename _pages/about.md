@@ -32,9 +32,9 @@ Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with exp
 
 My research bridges environmental/occupational exposure, statistical analsis, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
 
-Currently, I am a Postdoc-research associate at the department of Population and Public Health Science at USC where I study the metabolic profiles by bone mineral density across life span in Latino population. 
+Currently, I am a Postdoc-research associate at the department of Population and Public Health Science at USC where I evaluate the metabolic profiles by bone mineral density across life span in Latino populations. 
 
-For the past 4 years, I worked as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, exposure assessment, and health risk evaluation.
+For the past 4 years, I worked as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, metabolic & proteomic profiling, and health risk evaluation for the Firefighter Cancer Cohort Study (FFCCS) and the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance (AZ HEROES) Study.
 
 My research portfolio includes:
 
@@ -44,4 +44,4 @@ My research portfolio includes:
 
 Beyond research, I am passionate about translating complex scientific findings into accessible knowledge that informs public health policies and interventions. I also create interactive tools and visualizations to help bridge the gap between data science and community health practice.
 
-In all my work, I am driven by the goal of advancing health equity, improving occupational health, and innovating at the intersection of environmental exposures, data analytics, and public health.
+In all my work, I am driven by the goal of advancing health equity, improving occupational health, and innovating at the intersection of environmental exposures, data science, and public health.
