@@ -4,6 +4,7 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
+description: Life, study, work & everything.
 pagination:
   enabled: true
   collection: posts
