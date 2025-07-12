@@ -112,14 +112,14 @@
       "name": "Deep Learning",
       "date": "2024-08-01",
       "issuer": "Coursera",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/specializations/deep-learning",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "IBM Data Science Certificate",
       "date": "2020-04-01",
       "issuer": "Coursera",
-      "url": "https://example.com",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
       "icon": "fa-solid fa-tag"
     }
   ],
@@ -160,7 +160,7 @@
         "High-dimensional data analysis",
         "Experimental design & analysis",
         "Statistical learning",
-        "Deep learning"
+        "Machine Learning & Deep learning"
       ]
     }
   ],
