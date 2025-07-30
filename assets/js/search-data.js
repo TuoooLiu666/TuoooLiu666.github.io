@@ -245,6 +245,16 @@ ninja.data = [{
           description: "with FFCCS",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-health-endpoint",
+          title: 'health endpoint',
+          description: "with SOLAR-CHS-CCHC, PCa patients from UA Cancer Center",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-exposure",
+          title: 'exposure',
+          description: "PFAS, Exposome, and more",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-ds-projects",
           title: 'DS projects',
           description: "STATS project 🎉",
