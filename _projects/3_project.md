@@ -13,10 +13,10 @@ Application of omics techniques on various health endpoints, including prostate 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/8.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -29,11 +29,10 @@ Application of omics techniques on various health endpoints, including prostate 
   - Lead author for a manuscript (submitted to Metabolites) {% cite Liu_2025_7 %}
 
 - **Bone Health**, **Metabolomics**: TBD
-  - Analyzed 304 plasma samples for BMD-related metabolic signals
+  - Multi-cohort spanning from childhood, adolescence, to young adulthood
+  - Analyzed 304 plasma samples for BMD-related metabolic signals 
   - Integrated metabolomics datasets for comparative analysis
   - Lead author for a manuscript (under development) 
 
 - **Liver Disease**, **Exposomics**: TBD
-  - Developed an analytical pipeline for metabolomics studies
-  - Analyzed 100 firefighter samples for ethnicity-specific metabolic profiles
-  - Lead authored a manuscript (under development)
+  - TBD
