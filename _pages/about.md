@@ -30,9 +30,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with expertise in omics technologies, statistical analysis, and occupational health research. I recently earned my Ph.D. in Environmental Health Sciences, with a minor in Biostatistics, from the University of Arizona.
 
-My research bridges environmental/occupational exposure, statistical analsis, and public health practice. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
+My research bridges environmental/occupational exposure, statistical analysis, and public health interventions. I focus on applying metabolomics and proteomics to better understand how environmental and occupational exposures impact vulnerable populations, particularly frontline and essential workers such as firefighters and healthcare professionals.
 
-Currently, I am a Postdoc-research associate at the department of Population and Public Health Science at USC where I evaluate the metabolic profiles by bone mineral density across life span in Latino populations. 
+Currently, I am a Postdoc-research associate at the department of Population and Public Health Science at USC where I evaluate the metabolic profiles by bone mineral density across life span in Latino populations.
 
 For the past 4 years, I worked as a Research Associate in the Burgess Lab and the Furlong Lab, where I develop and implement statistical pipelines for biomarker discovery, metabolic & proteomic profiling, and health risk evaluation for the Firefighter Cancer Cohort Study (FFCCS) and the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance (AZ HEROES) Study.
 
