@@ -4,7 +4,7 @@ title: Maximum Likelihood Procedures
 date: 2023-02-16 11:12:00-0400
 description: multivariate-analysis
 tags: LinearAlgebra DataScience
-categories: 
+categories: Statistics
 ---
 
 ## Maximum Likelihood and Multivariate Normal Distribution

@@ -4,7 +4,7 @@ title: Linear Algebra Fundamentals
 date: 2023-02-01 11:12:00-0400
 description: statistical-learning
 tags: LinearAlgebra DataScience 
-categories: 
+categories: Statistics
 ---
 ### Matrix Algebra :art:
 
