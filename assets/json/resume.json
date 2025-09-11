@@ -183,8 +183,7 @@
       "keywords": [
         "Metabolomics",
         "Proteomics",
-        "Epigenomics",
-        "Exposomics"
+        "Epigenomics"
       ]
     },
     {
@@ -210,7 +209,7 @@
     {
       "name": "AZHEROES",
       "summary": "The goal of the Arizona Healthcare, Emergency Response, and Other Essential Workers Surveillance (AZ HEROES) Study is to enhance our knowledge of the epidemiologic and immunologic characteristics of novel COVID-19 infection and reinfection among high-exposure individuals who provide critical services to our communities.",
-      "highlights": ["COVID-19", "Essential workers"],
+      "highlights": ["COVID-19", "Frontline and Essential workers"],
       "startDate": "2022-08-01",
       "endDate": "2025-05-15",
       "url": "https://azheroes.arizona.edu/"
