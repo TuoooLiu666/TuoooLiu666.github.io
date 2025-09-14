@@ -1,11 +1,13 @@
 "furlong":
-  - firstname: ["Melissa"]
+  - firstname: ["Melissa A.", "Melissa", "Melissa A"]
     url: https://publichealth.arizona.edu/directory/melissa-furlong
 
 "burgess":
-  - firstname: ["Jefferey"]
+  - firstname: ["Jefferey", "J.", "Jefferey L."]
     url: https://cancercenter.arizona.edu/person/jefferey-l-burgess-md-mph-ms
 
-
+"snider":
+  - firstname: ["Justin M"]
+    url: https://cancercenter.arizona.edu/person/justin-snider-phd
 
 
