@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Tuo Liu",
-    "label": "Scientist",
+    "label": "Research Scientist",
     "image": "",
     "email": "tuoooliu@arizona.edu",
     "phone": "(626) 764-5802",
     "url": "https://tuoooliu666.github.io",
-    "summary": "An Environmental Health researcher, trained to answer environmental/occupational health problems using Omics techniques",
+    "summary": "An Environmental Health researcher, trained to answer environmental/occupational health questions using Omics & statistical techniques",
     "location": {
       "address": "1111 W Saint Marys Rd",
       "postalCode": "AZ 85745",
@@ -139,7 +139,7 @@
       "summary": "We compared metabolic profiles in male firefighters by Hispanic ethnicity and evaluated the association between the changes by ethnicity and fire exposure."
     }
   ],
-  "media": [
+  "activity": [
     {
       "name": "Graduate student using data analysis to protect firefighters from cancer",
       "summary": "The University of Arizona Health Sciences One Health initiative is funding Tuo Liu’s research into the mechanisms of cancer among firefighters.",
@@ -147,6 +147,14 @@
       "startDate": "2024-09-12",
       "endDate": "2024-09-12",
       "url": "https://healthsciences.arizona.edu/news/stories/graduate-student-using-data-analysis-protect-firefighters-cancer#:~:text=In%202023%2C%20the%20U%20of,exposure%20may%20lead%20to%20cancer."
+    },
+    {
+      "name": "Multi-Omics for Health and Disease (MOHD)",
+      "summary": "The Multi-Omics for Health and Disease Consortium aims to advance the application of multi-omic technologies to study health and disease in ancestrally diverse populations.",
+      "highlights": ["multi-omics", "disease"],
+      "startDate": "2025-09-12",
+      "endDate": "2026-09-12",
+      "url": "https://www.genome.gov/research-funding/Funded-Programs-Projects/Multi-Omics-for-Health-and-Disease"
     }
   ],
   "skills": [
