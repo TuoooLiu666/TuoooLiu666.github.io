@@ -23,7 +23,7 @@ Application of omics techniques on various health endpoints, including prostate 
     Random images.
 </div>
 
-- **PFAS**, **microRNA/Epigenomics**: Per- and polyfluoroalkyl Substances (PFAS) and microRNA: an epigenome-wide association study in firefighters
+- **PFAS**, **microRNA/Epigenetics**: Per- and polyfluoroalkyl Substances (PFAS) and microRNA: an epigenome-wide association study in firefighters
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
   - Co-author for a manuscript published on *Environmental Research* {% cite Furlong_2025 %}
