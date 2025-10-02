@@ -27,6 +27,3 @@ Application of omics techniques on various health endpoints, including prostate 
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
   - Co-author for a manuscript published on *Environmental Research* {% cite Furlong_2025 %}
-
-- **Liver Disease**, **Exposomics**: TBD
-  - TBD

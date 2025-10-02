@@ -32,10 +32,7 @@ Application of omics techniques on various health endpoints, including prostate 
   - Lead author for a manuscript (submitted to Metabolites) {% cite Liu_2025_7 %}
 
 - **Bone Health**, **Metabolomics**: TBD
-  - Multi-cohort spanning from childhood, adolescence, to young adulthood
-  - Analyzed 304 plasma samples for BMD-related metabolic signals 
+  - Multi-cohort spanning from adolescence, young adulthood, to senior adulthood
+  - Analyzed 304/250 plasma samples for metabolic signals in association with bone mineral densities 
   - Integrated metabolomics datasets for comparative analysis
   - Lead author for a manuscript (under development) 
-
-- **Liver Disease**, **Exposomics**: TBD
-  - TBD
