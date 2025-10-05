@@ -1,7 +1,7 @@
 ---
 layout: page
 title: health endpoint
-description: with SOLAR-CHS-CCHC, PCa patients from UA Cancer Center
+description: prostate cancer, bone health, cancer risks
 img: assets/img/6.jpg
 importance: 2
 category: work

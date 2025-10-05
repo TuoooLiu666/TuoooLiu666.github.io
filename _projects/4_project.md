@@ -1,7 +1,7 @@
 ---
 layout: page
 title: exposure
-description: PFAS, Exposome, and more
+description: PFAS, and more
 img: assets/img/9.jpg
 importance: 2
 category: work
