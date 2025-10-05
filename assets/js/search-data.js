@@ -247,12 +247,12 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-health-endpoint",
           title: 'health endpoint',
-          description: "with SOLAR-CHS-CCHC, PCa patients from UA Cancer Center",
+          description: "prostate cancer, bone health, cancer risks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-exposure",
           title: 'exposure',
-          description: "PFAS, Exposome, and more",
+          description: "PFAS, and more",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-ds-projects",
