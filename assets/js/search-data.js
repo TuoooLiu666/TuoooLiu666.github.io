@@ -232,9 +232,6 @@ ninja.data = [{
             },},{id: "news-dissertation-defense-passed-smile",
           title: 'Dissertation defense passed :smile: !',
           description: "",
-          section: "News",},{id: "news-i-am-going-to-join-the-center-for-translational-exposomics-research-cter-on-environmental-health-at-usc-on-june-15th-sparkles-smile",
-          title: 'I am going to join the Center for Translational Exposomics Research (CTER) on...',
-          description: "",
           section: "News",},{id: "projects-proteomics",
           title: 'proteomics',
           description: "with AZHEROES",
@@ -287,6 +284,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Tuo_Liu13?ev=hdr_xprf/", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
