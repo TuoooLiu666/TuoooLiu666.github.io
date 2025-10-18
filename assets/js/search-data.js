@@ -229,7 +229,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-dissertation-defense-passed-smile",
+            },},{id: "news-graduate-student-using-data-analysis-to-protect-firefighters-from-cancer-sparkles-smile",
+          title: 'Graduate student using data analysis to protect firefighters from cancer :sparkles: :smile: !...',
+          description: "",
+          section: "News",},{id: "news-dissertation-defense-passed-smile",
           title: 'Dissertation defense passed :smile: !',
           description: "",
           section: "News",},{id: "projects-proteomics",
