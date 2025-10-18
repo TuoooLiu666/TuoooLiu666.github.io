@@ -9,7 +9,7 @@ giscus_comments: false
 related_publications: true
 ---
 
-Application of omics techniques on various health endpoints, including prostate cancer, bone health, and liver disease are listed below:
+Application of omics techniques on various health endpoints, including prostate cancer and bone health are listed below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
