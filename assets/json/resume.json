@@ -19,15 +19,16 @@
     {
       "name": "Department of Population and Public Health Sciences, USC",
       "position": "Postdoc-Research Associate",
+      "location": "Los Angeles, US",
       "url": "https://keck.usc.edu/pphs/",
       "startDate": "2025-06-15",
-      "endDate": "2026-06-15",
       "summary": "Evaluating metabolic differences by bone mineral density (BMD); association between PFAS and BMD; association between exposome and BMD.",
       "highlights": ["Metabolomics","Proteomics","BMD", "PFAS"]
     },
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
       "position": "Graduate Research Associate",
+      "location": "Tucson, US",
       "url": "https://publichealth.arizona.edu/departments/community-environment-policy",
       "startDate": "2022-08-01",
       "endDate": "2025-05-15",
@@ -37,6 +38,7 @@
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
       "position": "Graduate Research Assistant",
+      "location": "Tucson, US",
       "url": "https://publichealth.arizona.edu/departments/community-environment-policy",
       "startDate": "2021-08-01",
       "endDate": "2022-07-31",
@@ -168,7 +170,7 @@
         "High-dimensional data analysis",
         "Experimental design & analysis",
         "Statistical learning",
-        "Machine Learning & Deep learning"
+        "Machine learning & Deep learning"
       ]
     }
   ],
