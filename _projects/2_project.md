@@ -23,9 +23,9 @@ Past & current metabolomics analyses with the FFCCS are listed below:
     Random images.
 </div>
 
-- **Women Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Structure Fire Exposure in Women Firefighters: A Comparison with Men Firefighters
+- **Women Firefighters**, **Training Fire**: Differential Metabolic Profiles by Structure Fire Exposure in Female Firefighters
   - Conducted differential expression analysis on 204 urine samples from women firefighters who underwent live-fire training
-  - Developed and validated statistical models to compare metabolic profiles across firefighter groups
+  - Developed and validated statistical models to compare metabolic profiles between male and female firefighters
   - Lead author for a manuscript (submitted to IJHEH) {% cite Liu_2025_6 %}
 
 - **Men Firefighters**, **WUI Fire**: Evaluating Differential Metabolic Profiles by Wildland-Urban-Interface (WUI) Fire Exposure: A Comparison with Structure Fires
