@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-statistics-notes",
+        },{id: "post-agentic-design-patterns",
+        
+          title: "Agentic Design Patterns",
+        
+        description: "Design patterns for building agentic AI systems.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/agentic-design-patterns/";
+          
+        },
+      },{id: "post-statistics-notes",
         
           title: "Statistics Notes",
         
