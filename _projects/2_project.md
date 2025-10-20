@@ -32,7 +32,7 @@ Past & current metabolomics analyses with the FFCCS are listed below:
   - Analyzed 85 firefighter samples for WUI-specific metabolic changes
   - Integrated metabolomics datasets for comparative analysis
   - Presented findings at the 2024 FFCCS Brown Bag meeting
-  - Lead author for a manuscript (submitted to Environmental Health) {% cite Liu_2025_3 %}
+  - Lead author for a manuscript (accepted by Environmental Health) {% cite Liu_2025_3 %}
 
 - **Men Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Hispanic Ethnicity Among Male Tucson Firefighters
   - Developed an analytical pipeline for metabolomics studies
