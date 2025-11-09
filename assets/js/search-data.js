@@ -258,7 +258,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-health-endpoint",
           title: 'health endpoint',
-          description: "prostate cancer, bone health, cancer risks",
+          description: "prostate cancer, long COVID, Omicron breakthrough, bone health, cancer risks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-exposure",
