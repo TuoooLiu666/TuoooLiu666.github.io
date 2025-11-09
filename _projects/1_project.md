@@ -26,12 +26,12 @@ Past & current proteomics analyses with the AZHEROES are listed below:
     Random photos.
 </div>
 
-- **Long COVID**: Proteomic Profiling to Investigate Biomarkers and Biological Functions Associated with Long COVID in Frontline Workers in the United States (US)
+- **Long COVID**: Understanding Long COVID (LC) in Frontline and Essential Workers (FEWs) through Proteomic Profiling: A Longitudinal Cohort Study
   - Led analytical team and developed statistical pipeline for proteomics analysis in AZHEROES
   - Processed and analyzed proteomics data from 130+ frontline and essential workers with COVID-19 infection to identify biomarkers associated with Long COVID
   - Applied bioinformatics techniques to map 20+ significant biological pathways
-  - Lead author for a manuscript currently under CDC clearance {% cite Liu_2025_4 %}
+  - Lead author for a manuscript currently under internal review {% cite Liu_2025_4 %}
 
 - **COVID Breakthrough**: Serum Proteomics in Omicron SARS-CoV-2 breakthrough: a nested case-control study within a prospective cohort of frontline workers from eight locations in the United States (US)
   - Assisted in proteomics analysis for 100+ breakthrough cases to identify risk factors for Omicron breakthrough
-  - Contributed to a manuscript currently under CDC clearance {% cite Liu_2025_5 %}
+  - Contributed to a manuscript submitted to PLoS ONE {% cite Liu_2025_5 %}

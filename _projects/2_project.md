@@ -41,3 +41,8 @@ Past & current metabolomics analyses with the FFCCS are listed below:
   - Presented findings at the 2022 Arizona Cancer Center Retreat
   - Lead authored a manuscript accepted by *Metabolomics* {% cite Liu_2025 %}
   - Co-authored a manuscript published on *Scientific Report* {% cite Furlong_2023 %}
+
+- **Prostates cancer**, **Metabolomics**: Evaluating Differential Metabolic Profile by Prostate Cancer Grade among Prostate Cancer Patients
+  - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
+  - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
+  - Lead author for a manuscript (submitted to Metabolites) {% cite Liu_2025_7 %}

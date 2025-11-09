@@ -28,6 +28,6 @@ Studies on emerging environmental toxicants are listed below:
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
   - Co-author for a manuscript published on *Environmental Research* {% cite Furlong_2025 %}
 
-- **Heat exposure**, **systematic review**: Extreme Heat Exposure During Pregnancy and Birth Outcomes: A Review of Epidemiological Evidence and Policy Implications
+- **Extreme Heat**, **systematic review**: Extreme Heat Exposure During Pregnancy and Birth Outcomes: A Review of Epidemiological Evidence and Policy Implications
   - Assisted development of the original draft; review & edits
   - Co-author a manuscript currently under internal review {% cite Ramos_2025 %}
