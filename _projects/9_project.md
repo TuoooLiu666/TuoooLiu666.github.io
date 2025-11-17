@@ -7,7 +7,7 @@ importance: 4
 category: fun
 ---
 
-Statistics, Bioinformatics, and DS projects for fun/research are list as below: 
+Statistics, Bioinformatics, and DS projects for fun/research are listed below: 
 
 - [Applied Biostatistics](https://github.com/TuoooLiu666/Applied-Biostatistics-Projects), 2022
   - Longitudinal analysis
