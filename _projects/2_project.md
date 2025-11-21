@@ -32,17 +32,17 @@ Past & current metabolomics analyses with the FFCCS are listed below:
   - Analyzed 85 firefighter samples for WUI-specific metabolic changes
   - Integrated metabolomics datasets for comparative analysis
   - Presented findings at the 2024 FFCCS Brown Bag meeting
-  - Lead author for a manuscript (accepted by Environmental Health) {% cite Liu_2025_3 %}
+  - Lead author for a manuscript published on *Environmental Health* {% cite Liu_2025_3 %}
 
 - **Men Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Hispanic Ethnicity Among Male Tucson Firefighters
   - Developed an analytical pipeline for metabolomics studies
   - Analyzed 100 firefighter samples for ethnicity-specific metabolic profiles
   - Identified biomarkers for differential exposure by Hispanic ethnicity
   - Presented findings at the 2022 Arizona Cancer Center Retreat
-  - Lead authored a manuscript accepted by *Metabolomics* {% cite Liu_2025 %}
+  - Lead authored a manuscript published on *Metabolomics* {% cite Liu_2025 %}
   - Co-authored a manuscript published on *Scientific Report* {% cite Furlong_2023 %}
 
 - **Prostates cancer**, **Metabolomics**: Evaluating Differential Metabolic Profile by Prostate Cancer Grade among Prostate Cancer Patients
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
-  - Lead author for a manuscript (submitted to Metabolites) {% cite Liu_2025_7 %}
+  - Lead author for a manuscript published on *Metabolites*{% cite Liu_2025_7 %}
