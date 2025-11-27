@@ -2,9 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching experience is listed below.
 nav: true
 nav_order: 6
 ---
 
-- **MS level**, **Principle of Public Health**, Univeristy of Arizona, 2025
+- **MS level**, **Principles of Public Health**, Univeristy of Arizona, 2025
