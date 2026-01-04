@@ -76,3 +76,11 @@ improve the accuracy and completeness of the output. For example:
 ### Code Generation and Refinement
 
 ### Multimodal and multi-steo reasoning
+
+## Design patterns from agentic AI from Andew Ng
+
+- reflection: evaluation and self-improvement
+- tool use: analysis, information gathering, productivity, images
+- planning: decomposition, task management, a sequence of API calls
+- multi-agent collaboration: specialized agents working together
+
