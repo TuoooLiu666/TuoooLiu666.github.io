@@ -46,3 +46,8 @@ Past & current metabolomics analyses with the FFCCS are listed below:
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
   - Lead author for a manuscript published on *Metabolites*{% cite Liu_2025_7 %}
+
+- **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
+  - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure 
+  - Develope a translational framework for the integration of animal model and mouse model
+  - Manuscript under development

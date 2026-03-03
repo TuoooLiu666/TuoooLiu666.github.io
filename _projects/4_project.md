@@ -31,3 +31,9 @@ Studies on emerging environmental toxicants are listed below:
 - **Extreme Heat**, **systematic review**: Extreme Heat Exposure During Pregnancy and Birth Outcomes: A Review of Epidemiological Evidence and Policy Implications
   - Assisted development of the original draft; review & edits
   - Co-author a manuscript currently under internal review {% cite Ramos_2025 %}
+
+- **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
+  - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure 
+  - Develope a translational framework for the integration of animal model and mouse model
+  - Manuscript under development
+
