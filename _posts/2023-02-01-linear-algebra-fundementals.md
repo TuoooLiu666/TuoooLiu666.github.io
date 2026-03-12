@@ -287,4 +287,6 @@ The sum of the singular values is the total amount of “variance” in the matr
 $$
 
 \overline{\sigma_i} = \frac{100\sigma_i}{\sum\sigma}
+
+$$
 $$
