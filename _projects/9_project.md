@@ -7,9 +7,10 @@ importance: 4
 category: fun
 ---
 
-Statistics, Bioinformatics, and DS projects for fun/research are listed below: 
+Statistics, Bioinformatics, and DS projects for fun/research are listed below:
 
 - [Applied Biostatistics](https://github.com/TuoooLiu666/Applied-Biostatistics-Projects), 2022
+
   - Longitudinal analysis
   - Survey analysis
   - Matching analysis
@@ -25,6 +26,7 @@ Statistics, Bioinformatics, and DS projects for fun/research are listed below:
   - Built a Shiny application with R to explore pesticide use in the State of Arizona, 1992-2016.
   - Visualized pesticide usage with an interactive map & chart using Leaflet & Plotly.
 - [Exploring neighborhoods & Chinese Restaurants in Toronto](https://www.linkedin.com/pulse/exploring-neighborhoods-chinese-restaurants-toronto-tuo-liu/?trackingId=Zfbd%2FUNeKx6kqaAigHRokA%3D%3D)
+
   - Defined a business problem, searched for open source data to answer the question.
   - Applied machine learning algorithms to identify biomarkers related to Hispanic ethnicity.
   - Used Four square API to compare different neighborhoods of Toronto to evaluate the distribution of Asian & Chinese restaurants.

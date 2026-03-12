@@ -24,30 +24,34 @@ Past & current metabolomics analyses with the FFCCS are listed below:
 </div>
 
 - **Women Firefighters**, **Training Fire**: Differential Metabolic Profiles by Structure Fire Exposure in Female Firefighters
+
   - Conducted differential expression analysis on 204 urine samples from women firefighters who underwent live-fire training
   - Developed and validated statistical models to compare metabolic profiles between male and female firefighters
   - Lead author for a manuscript (submitted to IJHEH) {% cite Liu_2025_6 %}
 
 - **Men Firefighters**, **WUI Fire**: Evaluating Differential Metabolic Profiles by Wildland-Urban-Interface (WUI) Fire Exposure: A Comparison with Structure Fires
+
   - Analyzed 85 firefighter samples for WUI-specific metabolic changes
   - Integrated metabolomics datasets for comparative analysis
   - Presented findings at the 2024 FFCCS Brown Bag meeting
-  - Lead author for a manuscript published on *Environmental Health* {% cite Liu_2025_3 %}
+  - Lead author for a manuscript published on _Environmental Health_ {% cite Liu_2025_3 %}
 
 - **Men Firefighters**, **Municipal Structure Fire**: Differential Metabolic Profiles by Hispanic Ethnicity Among Male Tucson Firefighters
+
   - Developed an analytical pipeline for metabolomics studies
   - Analyzed 100 firefighter samples for ethnicity-specific metabolic profiles
   - Identified biomarkers for differential exposure by Hispanic ethnicity
   - Presented findings at the 2022 Arizona Cancer Center Retreat
-  - Lead authored a manuscript published on *Metabolomics* {% cite Liu_2025 %}
-  - Co-authored a manuscript published on *Scientific Report* {% cite Furlong_2023 %}
+  - Lead authored a manuscript published on _Metabolomics_ {% cite Liu_2025 %}
+  - Co-authored a manuscript published on _Scientific Report_ {% cite Furlong_2023 %}
 
 - **Prostates cancer**, **Metabolomics**: Evaluating Differential Metabolic Profile by Prostate Cancer Grade among Prostate Cancer Patients
+
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
-  - Lead author for a manuscript published on *Metabolites*{% cite Liu_2025_7 %}
+  - Lead author for a manuscript published on _Metabolites_{% cite Liu_2025_7 %}
 
 - **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
-  - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure 
+  - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
   - Develope a translational framework for the integration of animal model and mouse model
   - Manuscript under development

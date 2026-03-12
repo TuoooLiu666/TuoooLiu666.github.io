@@ -10,7 +10,6 @@ related_publications: true
 
 Past & current proteomics analyses with the AZHEROES are listed below:
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -27,6 +26,7 @@ Past & current proteomics analyses with the AZHEROES are listed below:
 </div>
 
 - **Long COVID**: Understanding Long COVID (LC) in Frontline and Essential Workers (FEWs) through Proteomic Profiling: A Longitudinal Cohort Study
+
   - Led analytical team and developed statistical pipeline for proteomics analysis in AZHEROES
   - Processed and analyzed proteomics data from 130+ frontline and essential workers with COVID-19 infection to identify biomarkers associated with Long COVID
   - Applied bioinformatics techniques to map 20+ significant biological pathways

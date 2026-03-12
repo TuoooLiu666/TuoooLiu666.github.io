@@ -7,7 +7,6 @@ categories: Statistics
 tags: Statistics DataScience
 ---
 
-
 ## Statistical analysis
 
 - steps
@@ -58,14 +57,10 @@ tags: Statistics DataScience
   - the group of individuals that are exposed to the experimental variable
 - control group
 
-
 ### Sampling
 
-- calculate sample size
-        - significance level
-        - statistcial power
-        - expected effect size
-  
+- calculate sample size - significance level - statistcial power - expected effect size
+
 ### Hypothesis testing
 
 - one-group

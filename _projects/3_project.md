@@ -27,19 +27,22 @@ Application of omics techniques on various health endpoints, including prostate 
 </div>
 
 - **Prostates cancer**, **Metabolomics**: Evaluating Differential Metabolic Profile by Prostate Cancer Grade among Prostate Cancer Patients
+
   - Conducted metabolomics analysis on 22 urine samples from prostate cancer patients who were disgnozed with prostate cancer
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
-  - Lead author for a manuscript published on *Metabolites*{% cite Liu_2025_7 %}
+  - Lead author for a manuscript published on _Metabolites_{% cite Liu_2025_7 %}
 
 - **Long COVID**: Understanding Long COVID (LC) in Frontline and Essential Workers (FEWs) through Proteomic Profiling: A Longitudinal Cohort Study
+
   - Led analytical team and developed statistical pipeline for proteomics analysis in AZHEROES
   - Processed and analyzed proteomics data from 130+ frontline and essential workers with COVID-19 infection to identify biomarkers associated with Long COVID
   - Applied bioinformatics techniques to map 20+ significant biological pathways
   - Lead author for a manuscript currently under internal review {% cite Liu_2026_2 %}
 
 - **COVID Breakthrough**: Serum Proteomics in Omicron SARS-CoV-2 breakthrough: a nested case-control study within a prospective cohort of frontline workers from eight locations in the United States (US)
+
   - Assisted in proteomics analysis for 100+ breakthrough cases to identify risk factors for Omicron breakthrough
-  - Contributed to a manuscript submitted to *PLoS ONE* {% cite Liu_2025_5 %}
+  - Contributed to a manuscript submitted to _PLoS ONE_ {% cite Liu_2025_5 %}
 
 - **Bone Health**, **Metabolomics**: TBD
   - Multi-cohort spanning from adolescence, young adulthood, to senior adulthood

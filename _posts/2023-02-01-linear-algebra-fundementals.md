@@ -3,9 +3,10 @@ layout: post
 title: Linear Algebra Fundamentals
 date: 2023-02-01 11:12:00-0400
 description: statistical-learning
-tags: LinearAlgebra DataScience 
+tags: LinearAlgebra DataScience
 categories: Statistics
 ---
+
 ### Matrix Algebra :art:
 
 #### Overview
@@ -13,6 +14,7 @@ categories: Statistics
 - matrix operations: omitted
 - properties of matrix operations: omitted
 - matrix characteristics
+
   - rank: the maximum number of linearly independent rows/coulmns; linear independent set- no row in this set of rows can be expressed as a linear combination of the rest of rows
   - trace: sum of the diagonal elemetns of a matrix: **tr(A)**
   - determinant: how much the matrix stratches the vector
@@ -41,7 +43,6 @@ summary
 - the eigenvectors corresponding to the largest eigenvalues indicate the "main direction" of the data
 - the SVD is a generalization of the Jordan decomposition to non-square matrices
 
-
 #### Quadratic Forms
 
 A quadrati cform $$\mathcal{Q(x)}$$ is defined for a symmetric matrix **A(pxp)** and a vector x
@@ -67,7 +68,6 @@ summary
 - Quadratic forms can always be diagonalized
 - Positive definiteness of a quadratic form is equivalent to positiveness of the eigenvalues of the matrix **A**
 - The maximum and minimum of a quadratic form given some constraints can be expressed in terms of eigenvalues.
-
 
 #### Block/Partitioned Matrices
 
@@ -100,24 +100,20 @@ $$
 \end{equation}
 $$
 
-
 Importantly, when $$\vec{b}=1$$, the dot product above equals $$\lVert \vec{a} \rVert \cos\theta $$.
-
 
 ### Vector Projection🅱️
 
 Consider two vectors $$\vec{a}$$ and $$\vec{b}$$. We are projecting $$\vec{a}$$ onto $$\vec{b}$$, and we can scale $$\vec{b}$$ with a scalar $$c$$. $$c\vec{v}$$ defines a infinite line. We’re going to find the projection of $$\vec{a}$$ onto $$\vec{b}$$, written as:
 
-
 $$
 proj_{\vec{a}}\vec{cb}
 $$
 
-
-The vector connecting $$\vec{a}$$ and $$c\vec{b}$$ is $$\vec{a} −c\vec{b}$$. We want to find c such that $$\vec{a} −c\vec{b}$$ is perpendicular to $$c\vec{b}$$. Two perpendicular vectors have zero dot product:  
+The vector connecting $$\vec{a}$$ and $$c\vec{b}$$ is $$\vec{a} −c\vec{b}$$. We want to find c such that $$\vec{a} −c\vec{b}$$ is perpendicular to $$c\vec{b}$$. Two perpendicular vectors have zero dot product:
 
 $$
-(\vec{a} −c\vec{b}) \cdot \vec{b} = 0 \Rightarrow 
+(\vec{a} −c\vec{b}) \cdot \vec{b} = 0 \Rightarrow
 c=\frac{\vec{a}\vec{b}}{\vec{b}\vec{b}}
 $$
 
@@ -151,7 +147,7 @@ Eigendecomposition can be seen via difference lens and it has different interpre
 -  geometric interpretation (axes of rotational invariance)
 -  statistical interpetation (directions of maximal covariance)
 -  graph-theoretic interpretation (the impact of a node on its network)
--  financial-market interpretation (identifying stocks that covary), 
+-  financial-market interpretation (identifying stocks that covary),
 -  etc.
 
 Eigendecomposition is defined only for square matrices. Non-square matrices can be decomposed using SVD. Every sqaure matrix (MxM $$ \mathbb{A} $$) has M eigenvalue-eigenvector pairs. The goal of eigendecomposition is to reveal these vector-scalar pairs. <br>
@@ -161,55 +157,65 @@ Eigendecomposition is defined only for square matrices. Non-square matrices can 
 - Geometry
   - a special combination of a matrix and a vector such that the matrix stretched—but did not rotate—that vector.
 
-the matrix eigenvalue equation:  
+the matrix eigenvalue equation:
 $$
+
 \begin{equation}
-  \mathbb{A}\vec{v}=\lambda\vec{v}
+\mathbb{A}\vec{v}=\lambda\vec{v}
 \end{equation}
+
 $$
 
 General form of the matrix eigenvalue equation
 $$
+
 \begin{equation}
-  \mathbb{AV}=\mathbb{V \Lambda} \Rightarrow \\
-  \mathbb{A}= \mathbb{V \Lambda V^{-1}}
+\mathbb{AV}=\mathbb{V \Lambda} \Rightarrow \\
+\mathbb{A}= \mathbb{V \Lambda V^{-1}}
 \end{equation}
+
 $$
 
 - Statistics
-- 
+-
   -  multivariate data analysis requires the global pattern
-  -  typical question: 
+  -  typical question:
      - whether the entirety of the cryptospace operates as a single system? If so, one large eigenvalue accounts for the majority of the variance
      - whether there are independent subcategories within that space. If so, several large eigenvalues exist.
 
 - more...
-  
+
 
 #### Finding Eigenvalues
 
+
 $$
-\mathbb{A}\vec{v}=\lambda\vec{v} \Rightarrow 
-\mathbb{A}\vec{v}-\lambda\vec{v} = \vec{0} \Rightarrow 
+
+\mathbb{A}\vec{v}=\lambda\vec{v} \Rightarrow
+\mathbb{A}\vec{v}-\lambda\vec{v} = \vec{0} \Rightarrow
 (\mathbb{A}-\lambda\vec{I})\vec{v}=\vec{0}
+
 $$
 
 The eigenvector is in the null space of the matrix shifted by its eigenvalue. That mean the matrix shifted by its eigenvalue is singular and has a determinant $$ \det(\mathbb{A}-\lambda\vec{I})=0 $$ <br>
-Use a $$2\times2$$ matrix as an example: 
+Use a $$2\times2$$ matrix as an example:
+
 
 $$
+
 \det (\mathbb{A}-\lambda\vec{I}) =
 \begin{pmatrix}
 a & b \\
-c & d 
+c & d
 \end{pmatrix}-
 \lambda
 \begin{pmatrix}
 1 & 0 \\
-0 & 1 
+0 & 1
 \end{pmatrix} = 0 \\
 \Rightarrow
 \lambda^2-(a+d)\lambda+(ad-bc)=0
+
 $$
 
 The determinant of an eigenvalue-shifted matrix set to zero is called the **characteristic polynomial** of the matrix.
@@ -243,8 +249,11 @@ Each eigenvalue corresponds to one eigenvector. Finding the eigenvectors is rela
 
 The purpose of SVD is to decompose a matric into the product of three matrices, called the left singular vectors ($$\mathbb{U}$$), the singular values ($$\mathbb{\Sigma}$$), and the right singular vectors ($$\mathbb{V}$$):
 
+
 $$
+
 \mathbb{A}=\mathbb{U} \mathbb{\Sigma} \mathbb{V}
+
 $$
 
 This looks similar to eigendecomposition, and in fact SVD is the generalization of eigendecomposition to nonsquare matrices. The singular values in the diagonal elements of $$\mathbb{\Sigma}$$ are compatible to eigenvalues, and the singular vetors matrices are comparable to eigenvectors.
@@ -254,12 +263,15 @@ This looks similar to eigendecomposition, and in fact SVD is the generalization 
 SVD simply comes from computing the eigendecomposition of the matrix times
 its transpose:
 
+
 $$
+
 \begin{equation}
-    \mathbb{AA^T}=(\mathbb{U \Sigma V^T})(\mathbb{U \Sigma V^T})^T \\
-                 =\mathbb{U \Sigma V^T}\mathbb{V\Sigma^T U^T} \\
-                 = \mathbb{U \Sigma^2 U^T}
+\mathbb{AA^T}=(\mathbb{U \Sigma V^T})(\mathbb{U \Sigma V^T})^T \\
+=\mathbb{U \Sigma V^T}\mathbb{V\Sigma^T U^T} \\
+= \mathbb{U \Sigma^2 U^T}
 \end{equation}
+
 $$
 
 The eigenvectors of $$\mathbb{AA^T}$$ are the left-singular vectors($$\mathbb{U}$$) of $$\mathbb{A}$$, and the squared eigenvalues of $$\mathbb{AA^T}$$ are the singular values($$\Sigma$$) of $$\mathbb{A}$$:
@@ -271,6 +283,8 @@ The eigenvectors of $$\mathbb{AA^T}$$ are the left-singular vectors($$\mathbb{U}
 
 The sum of the singular values is the total amount of “variance” in the matrix. Tt is often useful to convert the singular values to percent total variance explained:
 
+
 $$
+
 \overline{\sigma_i} = \frac{100\sigma_i}{\sum\sigma}
 $$

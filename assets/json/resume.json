@@ -23,7 +23,7 @@
       "url": "https://keck.usc.edu/pphs/",
       "startDate": "2025-06-15",
       "summary": "Evaluating metabolic differences by bone mineral density (BMD); association between PFAS and BMD; association between exposome and BMD.",
-      "highlights": ["Metabolomics","Proteomics","BMD", "PFAS"]
+      "highlights": ["Metabolomics", "Proteomics", "BMD", "PFAS"]
     },
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
@@ -33,7 +33,7 @@
       "startDate": "2022-08-01",
       "endDate": "2025-05-15",
       "summary": "Evaluating metabolic changes after fire exposure in firefighters with FFCCS using Metabolomics; Studying Long COVID in frontline and essential workers with AZHEROES.",
-      "highlights": ["Metabolomics","Proteomics", "FFCCS", "AZHEROES"]
+      "highlights": ["Metabolomics", "Proteomics", "FFCCS", "AZHEROES"]
     },
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
@@ -190,21 +190,12 @@
     {
       "name": "Omics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Metabolomics",
-        "Proteomics",
-        "Epigenetics"
-      ]
+      "keywords": ["Metabolomics", "Proteomics", "Epigenetics"]
     },
     {
       "name": "Others",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Fishing",
-        "Weightlifting",
-        "Cooking",
-        "Reading"
-      ]
+      "keywords": ["Fishing", "Weightlifting", "Cooking", "Reading"]
     }
   ],
   "projects": [

@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: LT-CV-2025.pdf # you can also use external links here
-description: 
+description:
 toc:
   sidebar: left
 ---
