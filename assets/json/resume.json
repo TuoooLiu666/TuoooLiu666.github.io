@@ -22,8 +22,9 @@
       "location": "Los Angeles, US",
       "url": "https://keck.usc.edu/pphs/",
       "startDate": "2025-06-15",
-      "summary": "Evaluating metabolic differences by bone mineral density (BMD); association between PFAS and BMD; association between exposome and BMD.",
-      "highlights": ["Metabolomics", "Proteomics", "BMD", "PFAS"]
+      "endDate": "2026-06-14",
+      "summary": "Identify metabolic signatures of bone mineral density (BMD); association between PFAS and BMD.",
+      "highlights": ["Metabolomics", "BMD", "PFAS"]
     },
     {
       "name": "Department of Community, Environment & Policy, University of Arizona",
