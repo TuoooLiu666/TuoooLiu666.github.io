@@ -52,6 +52,6 @@ Past & current metabolomics analyses with the FFCCS are listed below:
   - Lead author for a manuscript published on _Metabolites_{% cite Liu_2025_7 %}
 
 - **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
-  - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
-  - Develope a translational framework for the integration of animal model and mouse model
+  - Integrate metabolomics analyses on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
+  - Develope a translational framework for the integration of animal model and cell model
   - Manuscript under development

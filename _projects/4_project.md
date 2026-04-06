@@ -29,7 +29,12 @@ Studies on emerging environmental toxicants are listed below:
   - Developed and validated statistical models to compare metabolic profiles across high vs. low PCa risk group
   - Co-author for a manuscript published on _Environmental Research_ {% cite Furlong_2025 %}
 
-- **Extreme Heat**, **systematic review**: Extreme Heat Exposure During Pregnancy and Birth Outcomes: A Review of Epidemiological Evidence and Policy Implications
+- **PFAS**, **Bone health**: Per- and polyfluoroalkyl Substances (PFAS) and bone health in an ageing Hispanic population
+
+  - Conducted PFAS-bone association analysis in 250 older Hispanic participants from the Border Health Research Cohort (BHRC, formly known as CCHC)
+  - Lead author for a manuscript under development
+
+- **Extreme heat**, **systematic review**: Extreme Heat Exposure During Pregnancy and Birth Outcomes: A Review of Epidemiological Evidence and Policy Implications
 
   - Assisted development of the original draft; review & edits
   - Co-author a manuscript currently under peer review with _Current Environmental Health Reports_ {% cite Ramos_2025 %}
@@ -37,4 +42,4 @@ Studies on emerging environmental toxicants are listed below:
 - **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
   - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
   - Develope a translational framework for the integration of animal model and mouse model
-  - Manuscript under development
+  - Co-lead author for a manuscript under development
