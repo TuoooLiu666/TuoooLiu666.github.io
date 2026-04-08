@@ -28,7 +28,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hello! I’m **LT** (Tuo Liu), Ph.D., an environmental health scientist with expertise in omics technologies, statistical analysis, and occupational health research. I recently completed my Ph.D. in Environmental Health Sciences with a minor in Biostatistics at the University of Arizona.
+Hello! I’m **LT** (Liu, Tuo), Ph.D., an environmental health scientist with expertise in omics technologies, statistical analysis, and occupational health research. I recently completed my Ph.D. in Environmental Health Sciences with a minor in Biostatistics at the University of Arizona.
 
 My work bridges environmental and occupational exposures, advanced data analysis, and public health interventions, with a focus on applying metabolomics and proteomics to understand how exposures affect vulnerable populations, particularly firefighters and healthcare professionals.
 
