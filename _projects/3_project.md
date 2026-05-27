@@ -44,8 +44,8 @@ Application of omics techniques on various health endpoints, including prostate 
   - Assisted in proteomics analysis for 100+ breakthrough cases to identify risk factors for Omicron breakthrough
   - Contributed to a manuscript submitted to _PLoS ONE_ {% cite Liu_2025_5 %}
 
-- **Bone Health**, **Metabolomics**: TBD
+- **Bone Health**
   - Multi-cohort spanning from adolescence, young adulthood, to senior adulthood
   - Analyzed 304/250 plasma samples for metabolic signals in association with bone mineral densities
-  - Integrated metabolomics datasets for comparative analysis
-  - Lead author for a manuscript (under development)
+  - Assessed PFAS-bone associations in older Hispanic adults (N=250)
+  - Lead author for 2 manuscripts (under peer review) {% cite Liu_2026_3 %} {% cite Liu_2026_4 %}
