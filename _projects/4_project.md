@@ -43,3 +43,7 @@ Studies on emerging environmental toxicants are listed below:
   - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
   - Develope a translational framework for the integration of animal model and mouse model
   - Co-lead author for a manuscript under development
+
+- **PFAS-Proteomics**: Associations of Per- and Poly-fluoroalkyl Substances (PFAS) and Untargeted Proteomic Profiles in AZ HEROES/RECOVER
+  - Assisted in proteomics analysis for 950+ frontline workers
+  - Contributed to a manuscript under development {% cite Yang_2026 %}
