@@ -35,3 +35,8 @@ Past & current proteomics analyses with the AZHEROES are listed below:
 - **COVID Breakthrough**: Serum Proteomics in Omicron SARS-CoV-2 breakthrough: a nested case-control study within a prospective cohort of frontline workers from eight locations in the United States (US)
   - Assisted in proteomics analysis for 100+ breakthrough cases to identify risk factors for Omicron breakthrough
   - Contributed to a manuscript accepted by PLoS ONE {% cite Liu_2025_5 %}
+
+
+- **PFAS-Proteomics**: Associations of Per- and Poly-fluoroalkyl Substances (PFAS) and Untargeted Proteomic Profiles in AZ HEROES/RECOVER
+  - Assisted in proteomics analysis for 950+ frontline workers
+  - Contributed to a manuscript under development {% cite Yang_2026 %}
