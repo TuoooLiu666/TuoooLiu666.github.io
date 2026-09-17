@@ -54,4 +54,4 @@ Past & current metabolomics analyses with the FFCCS are listed below:
 - **Smoke exposure**, **Metabolomics**: Metabolic effects of wood smoke: evidence from in vivo and in vitro in reference to firefighters
   - Integrate metabolomics analyses on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
   - Develope a translational framework for the integration of animal model and cell model
-  - Manuscript under development {% cite Liu_2026_5 %}
+  - Manuscript under development {% cite Hellinger_2026 %}
