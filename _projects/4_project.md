@@ -40,6 +40,7 @@ Studies on emerging environmental toxicants are listed below:
   - Co-author a manuscript currently under peer review with _Current Environmental Health Reports_ {% cite Ramos_2025 %}
 
 - **Smoke exposure**, **Metabolomics**: Evaluating Differential Metabolic Profiles by smoke exposure in mouse model and lung cells
+
   - Integrate metabolomics analysis on mouse model and lung cell model to study the smoke effects, in relation to firefighters' fireground exposure
   - Develope a translational framework for the integration of animal model and mouse model
   - Co-lead author for a manuscript under development
